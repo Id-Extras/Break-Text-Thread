@@ -1,6 +1,8 @@
 ﻿// Break Text Thread	BS"D
-// Copyright (c) by Ariel Walden, www.Id-Extras.com, 2020
-// Version 1.0,0
+// Copyright (c) 2020 Ariel Walden, www.Id-Extras.com. All rights reserved.
+// This work is licensed under the terms of the MIT license.  
+// The full text of the license can be read here: <https://opensource.org/licenses/MIT>.
+// Version 1.0.0
 //DESCRIPTION: InDesign makes breaking the thread between text frames without otherwise changing the layout surprisingly difficult! With this script, easily break the text thread (a) between selected text frames, or (b) between all frames in the selected story, or (c) throughout the document according to a selected paragraph style (great for dividing a long document into separate stories, one per chapter).
 //TO USE: Run the script and select the appropriate option.
 //TIP: If you place the text cursor inside some text  before running the script, the style dropdown will be preselected with the paragraph style under the text cursor.
